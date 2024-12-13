@@ -1,7 +1,3 @@
-```markdown
-# Olá, eu sou [julio oliveira] 👋
-
-Sou apaixonado por **programação** e estou atualmente aprendendo **Python**. Estou empolgado em continuar desenvolvendo minhas habilidades e contribuindo para projetos incríveis!
 
 ## 🚀 O que estou aprendendo
 - Python
